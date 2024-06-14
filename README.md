@@ -19,3 +19,5 @@
 - Player 2:
    - Up: Up Arrow
    - Down: Down Arrow
+- Quit:
+   - Alt + f4
